@@ -1,1 +1,1 @@
-Shopcart where we can shop what we want# Shopcart
+This project is a fully functional e-commerce platform that allows users to browse products, add items to a shopping cart, and complete secure purchases online. The system is designed to provide a seamless and efficient digital marketplace for both buyers and sellers.The application includes distinct user roles for customers and administrators, with features designed to enhance the overall shopping experience and streamline inventory management.
